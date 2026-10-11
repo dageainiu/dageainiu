@@ -25,9 +25,9 @@
 
 <div align="center">
 
-![统计](https://github-readme-stats.vercel.app/api?username=dageainiu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89dceb&icon_color=89dceb&text_color=cdd6f4&locale=zh-cn)
+![统计](https://github-readme-stats.vercel.app/api?username=dageainiu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89dceb&icon_color=89dceb&text_color=cdd6f4)
 
-![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=dageainiu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89dceb&locale=zh-cn)
+![语言](https://github-readme-stats.vercel.app/api/top-langs/?username=dageainiu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89dceb)
 
 ![连续提交](https://streak-stats.demolab.com?user=dageainiu&theme=tokyonight&hide_border=true&background=0d1117&stroke=89dceb&ring=89dceb&fire=89dceb&currStreakLabel=89dceb)
 
