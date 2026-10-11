@@ -41,21 +41,6 @@
 
 ---
 
-### 🌟 精选项目
-
-| 项目 | 描述 | 技术 |
-|------|------|------|
-| [开源头像](https://github.com/dageainiu/open-avatars) | 开源示例头像 | OpenMoji |
-| [API 目录](https://github.com/dageainiu/public-api-catalog) | 公开 API 收集 | - |
-
----
-
-### 📫 联系方式
-
-[![博客](https://img.shields.io/badge/博客-laodau.cc.cd-blue?style=for-the-badge&logo=safari&logoColor=white)](https://laodau.cc.cd/)
-
----
-
 <div align="center">
 
 ![访客](https://visitor-badge.laobi.icu/badge?page_id=dageainiu.dageainiu)
