@@ -27,3 +27,11 @@
 
 </div>
 
+---
+
+<div align="center">
+
+![3D Globe](https://raw.githubusercontent.com/dageainiu/dageainiu/main/profile-3d-contrib/profile-green-animate.svg)
+
+</div>
+
