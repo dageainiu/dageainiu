@@ -21,16 +21,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dageainiu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=dageainiu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b)
 
-![Streak](https://streak-stats.demolab.com?user=dageainiu&theme=radical&hide_border=true&background=0d1117&cache_seconds=86400)
-
-</div>
-
----
-
-<div align="center">
-
-![Globe](https://raw.githubusercontent.com/dageainiu/dageainiu/output/profile-3d-contrib/profile-green-animate.svg)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dageainiu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b)
 
 </div>
+
