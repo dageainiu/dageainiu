@@ -1,25 +1,55 @@
-```
-剑客
-前端，写界面。
-```
+<div align="center">
 
-平时把页面做得干净一点。  
-不喜欢堆功能，喜欢能直接用的东西。
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=剑客&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
----
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=FF6B6B&center=true&vCenter=true&width=550&lines=🚀+前端工程师;✨+界面强迫症;🎨+喜欢好看的东西;🔥+持续折腾中)](https://git.io/typing-svg)
 
-**在做**
-- 界面相关的小工具
-- 看看开源项目里别人怎么写
+<img src="https://komarev.com/ghpvc/?username=dageainiu&color=blueviolet&style=flat-square&label=👀+VISITORS"/>
 
-**用过**
-TypeScript · React · Vue · 一点后端
-
-**其他**
-中文母语，英语能看文档。  
-空了会看看新东西，或者什么都不做。
+</div>
 
 ---
 
-<sub>没有打字动画，也没有一排徽章。</sub>
+<div align="center">
+
+### 🛠️ 技术栈
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 统计
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dageainiu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff)
+
+![Streak](https://streak-stats.demolab.com?user=dageainiu&theme=radical&hide_border=true&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dageainiu&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 目前
+
+- 🎨 把界面做得更好看
+- 🚀 学新东西
+- ✨ 写点小工具
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
 
