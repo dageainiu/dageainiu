@@ -31,7 +31,6 @@
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/dageainiu/dageainiu/output/github-contribution-grid-snake.svg)
+![Globe](https://raw.githubusercontent.com/dageainiu/dageainiu/output/profile-3d-contrib/profile-green-animate.svg)
 
 </div>
-
