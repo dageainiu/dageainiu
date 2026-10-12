@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dageainiu/female-profile-samples/main/avatars/001.jpg" width="180" style="border-radius:50%"/>
-
 # 剑客
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=89DCEB&center=true&vCenter=true&width=450&lines=前端工程师;喜欢干净的界面;持续学习中)](https://git.io/typing-svg)
